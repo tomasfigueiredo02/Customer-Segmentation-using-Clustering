@@ -6,8 +6,8 @@ This project applies clustering techniques to segment customers of a food delive
 Developed as part of the **Master’s in Data Science and Advanced Analytics** at **NOVA IMS**, for the **Data Mining** course.  
 
 ## Methodology  
-*Data Preprocessing: Handling missing values, feature engineering, outlier analysis, and scaling.  
-- Clustering Approaches Explored:  
+**Data Preprocessing**: Handling missing values, feature engineering, outlier analysis, and scaling.  
+- **Clustering Approaches Explored:**  
   - DBSCAN & GMM
   - Self-Organizing Maps (SOM) 
   - K-Means
