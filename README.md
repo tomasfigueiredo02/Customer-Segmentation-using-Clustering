@@ -22,3 +22,9 @@ Developed as part of the **Master’s in Data Science and Advanced Analytics** a
   - `3_Self_Organizing_Maps.ipynb` 
   - `4_K-Means.ipynb`
   - `5_Hybrid_Hierarchical-K-Means.ipynb`
+
+## Contributors  
+- Eduardo Mendes
+- Joana Esteves 
+- João Freire 
+- Tomás Figueiredo 
